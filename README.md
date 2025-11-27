@@ -11,7 +11,7 @@
   <br/>
   Google Research
   <br/><br/>
-  <a href="https://generativeui.github.io/static/pdfs/paper.pdf">📄 <b>Paper</b></a>
+  <a href="https://generativeui.net/docs/paper.pdf">📄 <b>Paper</b></a>
 </p>
 
 ---
