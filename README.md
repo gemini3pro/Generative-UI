@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Generative UI: LLMs are Effective UI Generators</h1>
+<h1 align="center">🌟 Generative UI: LLMs are <a href="https://dynamicview.net">Effective UI Generators</a></h1>
 
 <p align="center">
   <a href="https://yanivle.github.io/">Yaniv Leviathan</a>, 
